@@ -1,0 +1,16 @@
+SMAP
+admin_005fadduser_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_adduser.jsp
+manager/admin_adduser.jsp
++ 1 admin_menu.jsp
+manager/admin_menu.jsp
+*L
+5,4:49
+5#1,18:52
+23:70,3
+24,22:73
+8#0,87:94
+*E
